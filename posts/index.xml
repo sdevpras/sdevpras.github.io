@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sanjay Devprasad</title>
-    <link>https://sdevpras.github.io/</link>
-    <description>Recent content on Sanjay Devprasad</description>
+    <title>Posts on Sanjay Devprasad</title>
+    <link>https://sdevpras.github.io/posts/</link>
+    <description>Recent content in Posts on Sanjay Devprasad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 15 Aug 2020 20:14:17 +0530</lastBuildDate>
     
-	<atom:link href="https://sdevpras.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sdevpras.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://sdevpras.github.io/posts/bayern-bloodbath/</guid>
       <description>So, this is evidently my first post here and never did I imagine I’d be this glum writing it.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://sdevpras.github.io/about/</link>
-      <pubDate>Sat, 15 Aug 2020 17:27:28 +0530</pubDate>
-      
-      <guid>https://sdevpras.github.io/about/</guid>
-      <description>Hi! I&amp;rsquo;m Sanjay, currently a software engineer in Amazon and hailing from Bangalore, India.</description>
     </item>
     
   </channel>
