@@ -10,5 +10,14 @@
 	<atom:link href="https://sdevpras.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>About</title>
+      <link>https://sdevpras.github.io/about/</link>
+      <pubDate>Sat, 15 Aug 2020 17:27:28 +0530</pubDate>
+      
+      <guid>https://sdevpras.github.io/about/</guid>
+      <description>Hi! I&amp;rsquo;m Sanjay, currently a software engineer in Amazon and hailing from Bangalore, India.</description>
+    </item>
+    
   </channel>
 </rss>
